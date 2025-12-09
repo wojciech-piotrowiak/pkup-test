@@ -1,6 +1,7 @@
 # Mięsieczny raport prac
 
 **Imię i nazwisko autora:** 
+
 **Miesiąc raportu:** 
 
 ---
